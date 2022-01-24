@@ -5,9 +5,6 @@
 
 #check if a linked list is palindrome
 
-from email import header
-
-
 def check_palindrome_linked_list(head):
     slow=fast=head
 
